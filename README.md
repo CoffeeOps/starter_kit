@@ -15,5 +15,5 @@ When first starting out, you'll probably have just a few folks (2-3). So, let ev
 4. **Marketing** .. the how you let folks know the event is happening
    * [meetup.com](https://meetup.com) is a good way to publicize your meetup in the beginning.
    * Slack. If there's a dev or ops oriented slack for your area, see if they have some sort of #meetup channel you can post announcements in.
-   * [CoffeeOps slack](https:/coffeeops.slack.com) - If there isn't a #cityname channel, make one. Make a point of posting every meeting there so that new members of the slack can find out there's now a CoffeeOps in the area.
+   * [CoffeeOps slack](https://coffeeops.slack.com) - If there isn't a #cityname channel, make one. Make a point of posting every meeting there so that new members of the slack can find out there's now a CoffeeOps in the area.
 
